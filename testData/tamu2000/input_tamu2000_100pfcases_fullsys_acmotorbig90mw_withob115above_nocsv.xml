@@ -1,0 +1,4654 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Powerflow>
+  
+  <networkFiles>
+    
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4375_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4396_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4404_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4409_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4411_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4414_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4513_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4528_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4533_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4583_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4587_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4620_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4635_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4639_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4640_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4688_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4690_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4692_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4696_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4704_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4721_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4729_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4738_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4739_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4765_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4795_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4813_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4818_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4836_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4872_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4874_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4879_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4891_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4894_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4906_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4914_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4923_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4928_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4935_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4940_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4945_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4950_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4978_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4987_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_4988_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5013_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5043_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5060_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5106_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5108_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5140_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5163_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5179_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5185_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5194_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5202_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5241_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5242_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5274_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5279_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5289_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5297_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5314_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5329_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5339_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5353_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5358_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5381_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5410_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5432_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5466_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5489_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5491_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5499_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5504_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5529_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5536_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5567_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5571_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5582_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5596_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5600_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5621_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5639_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5640_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5648_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5658_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5671_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5672_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5713_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5716_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5722_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5732_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5778_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5780_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5791_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5801_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5812_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5846_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+    <networkFile> 
+    <networkConfiguration> ../testData/tamu2000/pfcases_100_fullsys/texas2000_hr_5856_mod_23_pslf.raw </networkConfiguration> 
+    </networkFile> 
+
+  </networkFiles> 
+  
+  
+    <maxIteration>20</maxIteration>
+    <tolerance>1.0e-8</tolerance>
+    <qLimit>True</qLimit>
+    <LinearSolver>
+      <SolutionTolerance>1.0E-11 </SolutionTolerance> 
+      <PETScOptions>
+        <!-- -ksp_view -->
+        -ksp_type richardson
+        -pc_type lu
+        -pc_factor_mat_solver_package superlu_dist
+        -ksp_max_it 1
+      </PETScOptions>
+    </LinearSolver>
+    <UseNonLinear>false</UseNonLinear>
+    <UseNewton>false</UseNewton>
+    <NewtonRaphsonSolver>
+      <SolutionTolerance>1.0E-05</SolutionTolerance>
+      <FunctionTolerance>1.0E-05</FunctionTolerance>
+      <MaxIterations>20</MaxIterations>
+      <LinearSolver>
+        <SolutionTolerance>1.0E-08</SolutionTolerance>
+        <MaxIterations>50</MaxIterations>
+        <PETScOptions>
+          -ksp_type bicg
+          -pc_type bjacobi
+          -sub_pc_type ilu -sub_pc_factor_levels 5 -sub_ksp_type preonly
+          <!-- -ksp_monitor
+          -ksp_view -->
+        </PETScOptions>
+      </LinearSolver>
+    </NewtonRaphsonSolver>
+    <NonlinearSolver>
+      <SolutionTolerance>1.0E-05</SolutionTolerance>
+      <FunctionTolerance>1.0E-05</FunctionTolerance>
+      <MaxIterations>50</MaxIterations>
+      <PETScOptions>
+        -ksp_type bicg
+        -pc_type bjacobi
+        -sub_pc_type ilu -sub_pc_factor_levels 5 -sub_ksp_type preonly
+        <!-- -snes_view
+        -snes_monitor
+        -ksp_monitor
+        -ksp_view -->
+      </PETScOptions>
+    </NonlinearSolver>
+  </Powerflow>
+  <Dynamic_simulation>
+    <generatorParameters> ../testData/tamu2000/texas2000_fullsys_ac_big90mw.dyr </generatorParameters>                
+    <simulationTime>8</simulationTime>
+    <timeStep>0.005</timeStep>
+    <faultEvents>
+      <faultEvent>
+        <beginFault> 1.0</beginFault>
+        <endFault>   1.1</endFault>
+        <faultBranch>1004 3133</faultBranch>
+        <timeStep>   0.005</timeStep>
+      </faultEvent>
+    </faultEvents>
+	<observations>
+
+      <observation> 
+        <type> bus </type>
+        <busID> 1004 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1033 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1053 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1079 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1081 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2002 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2011 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2017 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2021 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2054 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2096 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2097 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2101 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2113 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2127 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3001 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3018 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3026 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3037 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3041 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3046 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3048 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3050 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3053 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3058 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3078 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3082 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3088 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3096 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3133 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4004 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4014 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4024 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4028 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4039 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4041 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4056 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4070 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4073 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4080 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4113 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4131 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4140 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4146 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4151 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4158 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4181 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4183 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4192 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4195 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4196 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5015 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5018 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5021 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5033 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5045 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5047 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5049 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5055 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5063 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5083 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5102 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5120 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5131 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5137 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5164 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5179 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5192 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5196 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5204 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5236 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5239 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5260 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5279 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5295 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5304 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5317 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5322 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5350 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5358 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5361 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5380 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5384 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5388 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5394 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5395 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5401 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5410 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5413 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5444 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5448 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5451 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5464 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5479 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6003 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6004 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6021 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6022 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6030 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6033 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6034 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6036 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6038 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6039 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6045 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6046 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6056 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6057 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6062 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6063 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6066 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6067 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6075 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6076 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6101 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6102 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6107 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6108 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6118 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6119 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6141 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6142 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6152 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6161 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6162 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6169 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6170 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6172 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6177 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6188 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6192 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6197 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6198 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6210 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6211 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6222 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6228 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6229 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6234 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6235 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6239 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6240 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6254 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6255 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6263 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6277 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6279 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6285 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6287 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6292 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6293 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6298 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6299 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6308 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6315 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6321 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6333 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6334 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6342 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6343 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6349 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6350 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6354 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6359 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7002 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7003 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7018 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7019 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7029 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7035 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7037 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7038 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7040 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7042 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7043 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7047 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7048 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7056 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7058 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7059 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7068 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7073 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7076 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7077 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7083 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7095 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7096 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7104 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7105 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7125 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7126 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7130 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7131 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7150 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7156 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7159 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7160 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7171 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7175 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7176 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7184 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7186 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7187 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7199 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7200 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7204 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7205 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7227 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7228 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7252 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7261 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7263 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7264 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7274 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7278 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7282 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7304 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7305 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7312 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7320 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7321 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7327 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7331 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7332 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7341 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7342 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7346 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7347 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7366 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7367 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7389 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7390 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7400 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7401 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7406 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7407 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7409 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7414 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7415 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7420 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7422 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7423 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7428 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7429 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8004 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8018 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8030 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8031 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8043 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8044 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8057 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8058 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8067 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8068 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8074 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8075 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8082 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8083 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8094 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8097 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8105 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8112 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8113 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8126 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8127 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8133 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8139 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8147 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8155 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8156 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8158 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8159 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1001 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1005 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1010 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1014 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1017 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1020 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1025 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1029 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1032 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1037 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1041 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1046 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1055 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1061 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1067 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1071 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1084 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1087 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 1090 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2003 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2009 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2014 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2018 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2025 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2028 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2031 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2034 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2037 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2040 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2044 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2047 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2050 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2053 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2060 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2064 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2067 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2070 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2074 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2079 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2082 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2088 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2092 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2102 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2108 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2111 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2121 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2124 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2128 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 2131 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3002 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3007 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3011 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3015 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3021 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3024 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3029 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3032 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3036 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3042 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3051 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3064 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3069 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3075 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3080 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3089 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3094 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3100 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3103 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3109 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3115 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3121 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3127 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3130 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3134 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3137 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3140 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3143 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 3146 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4003 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4007 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4011 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4015 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4018 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4021 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4025 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4031 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4034 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4037 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4042 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4048 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4053 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4057 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4067 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4071 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4078 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4086 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4089 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4101 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4104 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4108 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4111 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4117 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4120 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4123 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4126 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4129 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4139 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4144 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4148 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4152 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4156 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4164 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4168 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4171 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4175 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4179 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4184 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4187 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4190 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 4194 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5005 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5008 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5012 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5016 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5022 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5027 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5030 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5034 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5046 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5052 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5059 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5062 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5071 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5074 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5077 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5080 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5084 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5087 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5092 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5095 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5098 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5101 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5105 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5110 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5113 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5116 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5119 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5125 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5129 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5133 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5136 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5141 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5144 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5147 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5150 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5153 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5156 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5160 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5165 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5172 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5176 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5180 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5184 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5187 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5190 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5194 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5199 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5203 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5210 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5214 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5217 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5220 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5224 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5227 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5230 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5233 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5237 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5242 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5246 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5249 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5252 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5255 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5258 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5264 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5268 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5272 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5277 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5284 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5287 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5290 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5293 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5305 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5308 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5311 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5315 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5323 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5330 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5333 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5336 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5339 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5344 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5347 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5351 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5354 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5357 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5370 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5373 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5376 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5379 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5386 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5390 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5396 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5400 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5408 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5412 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5421 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5426 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5429 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5432 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5435 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5439 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5442 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5446 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5450 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5454 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5457 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5461 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5465 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5469 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5472 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5477 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5481 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 5484 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6002 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6012 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6015 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6018 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6023 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6026 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6029 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6035 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6043 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6058 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6064 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6077 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6091 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6094 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6097 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6100 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6112 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6115 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6120 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6124 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6128 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6132 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6136 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6139 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6150 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6155 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6158 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6163 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6173 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6176 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6180 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6183 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6186 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6193 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6196 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6201 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6204 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6207 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6212 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6219 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6223 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6227 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6232 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6238 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6251 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6256 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6264 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6276 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6281 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6284 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6289 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6294 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6307 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6311 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6314 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6318 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6322 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6326 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6331 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6337 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6341 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6346 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6353 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 6358 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7010 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7013 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7017 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7027 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7036 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7044 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7051 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7054 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7060 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7070 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7075 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7085 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7088 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7091 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7094 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7102 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7116 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7119 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7127 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7132 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7145 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7151 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7155 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7161 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7174 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7179 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7182 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7188 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7202 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7213 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7216 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7219 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7222 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7225 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7230 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7233 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7236 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7239 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7242 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7245 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7248 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7251 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7255 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7258 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7262 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7272 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7276 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7283 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7292 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7295 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7298 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7301 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7306 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7315 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7318 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7328 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7336 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7340 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7345 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7363 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7368 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7382 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7385 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7388 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7393 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7396 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7399 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7404 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7411 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7416 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7419 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7425 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 7431 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8002 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8006 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8009 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8012 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8015 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8019 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8022 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8026 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8029 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8038 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8041 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8052 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8055 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8062 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8065 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8072 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8081 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8090 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8093 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8098 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8103 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8107 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8110 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8118 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8121 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8124 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8132 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8136 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8140 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8143 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8146 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8150 </busID>
+      </observation> 
+      <observation> 
+        <type> bus </type>
+        <busID> 8153 </busID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 11027 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 11029 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 11037 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 11045 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 11064 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 11067 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 11071 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 13002 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 13030 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 13051 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 13114 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 13130 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14003 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14005 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14007 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14013 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14015 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14019 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14020 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14032 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14033 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14040 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14042 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14066 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14067 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14071 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14079 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14088 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14101 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14103 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14107 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14109 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14111 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14122 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14123 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14126 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14127 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14128 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14147 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14156 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14157 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14171 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14190 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 14193 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15004 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15007 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15011 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15013 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15017 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15024 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15031 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15050 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15054 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15082 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15084 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15085 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15091 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15099 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15104 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15108 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15117 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15118 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15127 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15129 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15132 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15133 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15146 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15150 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15158 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15159 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15162 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15171 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15176 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15178 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15180 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15182 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15184 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15185 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15194 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15209 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15214 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15215 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15218 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15222 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15225 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15229 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15234 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15235 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15246 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15249 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15250 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15251 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15252 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15253 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15254 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15259 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15267 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15274 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15288 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15292 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15305 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15306 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15308 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15310 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15313 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15323 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15327 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15330 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15333 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15334 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15336 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15345 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15347 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15352 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15357 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15362 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15371 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15372 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15374 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15381 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15385 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15386 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15402 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15411 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15412 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15420 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15425 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15429 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15430 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15434 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15441 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15442 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15449 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15450 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15465 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15466 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15480 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 15481 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16002 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16014 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16017 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16024 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16025 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16029 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16037 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16040 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16055 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16059 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16061 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16064 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16065 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16098 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16099 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16116 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16121 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16122 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16151 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16168 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16171 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16173 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16176 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16179 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16183 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16189 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16200 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16204 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16206 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16209 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16221 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16224 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16225 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16230 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16231 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16237 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16250 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16276 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16280 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16281 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16288 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16289 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16290 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16309 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16311 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16331 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16336 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16338 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16345 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16352 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16353 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16355 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16356 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 16358 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17004 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17013 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17017 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17027 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17039 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17041 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17044 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17049 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17050 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17051 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17052 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17053 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17054 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17055 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17070 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17072 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17075 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17084 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17088 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17091 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17093 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17101 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17102 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17118 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17120 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17124 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17127 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17144 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17145 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17157 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17158 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17161 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17172 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17173 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17174 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17177 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17178 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17180 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17181 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17183 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17185 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17198 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17201 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17214 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17215 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17216 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17220 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17221 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17222 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17225 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17229 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17235 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17245 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17246 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17248 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17253 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17257 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17259 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17260 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17276 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17279 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17283 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17291 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17292 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17295 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17296 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17297 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17298 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17317 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17330 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17336 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17338 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17343 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17344 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17383 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17385 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17386 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17387 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17388 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17397 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17404 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17410 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17417 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17419 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17421 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17424 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17425 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 17427 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 18005 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 18019 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 18095 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 18106 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 18111 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 18134 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 18140 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+      <observation> 
+        <type> load </type>
+        <busID> 18160 </busID>
+        <loadID> 1 </loadID>
+      </observation> 
+
+	</observations>  
+    <generatorWatch>
+      <generator>
+       <busID> 1004 </busID>
+       <generatorID> 1 </generatorID>
+      </generator>
+    </generatorWatch>
+    <generatorWatchFrequency> 1 </generatorWatchFrequency>
+    <generatorWatchFileName> 00tamu2000_detail_acmotor.csv </generatorWatchFileName>
+	<suppressWatchFiles> true </suppressWatchFiles>
+    <LinearSolver>
+      <SolutionTolerance>1.0E-12 </SolutionTolerance> 
+      <ForceSerial>true</ForceSerial>
+      <InitialGuessZero>true</InitialGuessZero>
+      <SerialMatrixConstant>true</SerialMatrixConstant>
+      <PETScOptions>
+        <!--
+                     -ksp_type richardson
+        -->
+        -ksp_type preonly
+        -pc_type lu
+        -pc_factor_mat_ordering_type amd
+      </PETScOptions>
+    </LinearSolver>
+    <LinearMatrixSolver>
+      <!--
+        These options are used if SuperLU was built into PETSc 
+      -->
+      <Ordering>nd</Ordering>
+      <Package>superlu_dist</Package>
+      <Iterations>1</Iterations>
+      <Fill>5</Fill>
+      <!--<PETScOptions>
+        These options are used for the LinearSolver if SuperLU is not available
+        -ksp_atol 1.0e-18
+        -ksp_rtol 1.0e-10
+        -ksp_monitor
+        -ksp_max_it 200
+        -ksp_view
+      </PETScOptions>
+      -->
+    </LinearMatrixSolver>
+  </Dynamic_simulation>
+</Configuration>

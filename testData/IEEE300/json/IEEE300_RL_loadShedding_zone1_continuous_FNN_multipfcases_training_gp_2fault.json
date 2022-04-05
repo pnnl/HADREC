@@ -1,0 +1,63 @@
+{
+	"version" : 2,
+	"environmentName": "IEEE300_FIDVR_LoadShedding_Continuous_Action",
+	"studyCaseFolder": "testData/IEEE300/baseCases",
+	
+	"observationStateTypes": ["voltageMag"],
+	
+	"observationScopeType": "Zone",
+			
+	"observationScopeAry": ["1"],
+	
+	"observationVoltThreshold":60000.0,
+	
+	"historyObservationSize": 4,
+	
+	"ObservationSelfZoneVoltNum": 142,
+	
+	"ObservationSelfZoneLowVoltNum": 34,
+	
+	"ObservationOtherZoneVoltNum": 0,
+	
+	"actionLoadSelfZoneNum": 34,
+	
+	"actionLoadOtherZoneNum": 0,
+	
+	"actionTypes": ["LoadShed"],
+	
+	"actionScopeType":"Bus",
+	
+	"actionScopeAry": [  "bus20001",  "bus20002",  "bus20005",  "bus20006",  "bus20008",  "bus20009",  "bus20010",  "bus20011",  "bus20013",  "bus20014",  "bus20015",  "bus20017",  "bus20020",  "bus20021",  "bus20022",  "bus20027",  "bus20033",  "bus20037",  "bus20038",  "bus20044",  "bus20047",  "bus20049",  "bus20052",  "bus20053",  "bus20057",  "bus20059",  "bus20061",  "bus20063",  "bus20070",  "bus20071",  "bus20072",  "bus20073",  "bus20076",  "bus20077"],  
+
+	"envStepTimeInSec": 0.1,
+	
+	"actionLevels":[0.0, -1.0],
+	
+    "unstableReward": -10000,
+    
+    "actionPenalty": 150.0,
+    
+    "invalidActionPenalty": 3.0,
+    
+    "preFaultActionPenalty":100,
+    
+    "observationWeight":30.0,
+    
+    "includeActionStatusInObservations": true,
+
+    "minVoltRecoveryLevel":0.90, 
+            
+    "maxVoltRecoveryTime":5.0,
+	
+    "faultBusCandidates": ["Bus3","Bus2"],
+	
+    "faultStartTimeCandidates": [1.0],
+	
+    "faultDurationCandidates": [0.1],
+	
+    
+    "actionSpaceType":"continuous",
+
+    "actionValueRanges": [  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0]]
+	
+}

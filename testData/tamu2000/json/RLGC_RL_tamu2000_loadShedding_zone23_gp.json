@@ -1,0 +1,56 @@
+{
+	"version" : 2,
+	"environmentName": "Texas2000_FIDVR_LoadShedding_Continuous_Action",
+	"studyCaseFolder": "testData\\tamu2000",
+	
+	"observationStateTypes": ["voltageMag"],
+	
+	"observationScopeType": "Zone",
+			
+	"observationScopeAry": ["26"],
+	
+	"observationVoltThreshold":60000.0,
+	
+	"historyObservationSize": 1,
+	
+	"actionTypes": ["LoadShed"],
+	
+	"actionScopeType":"Bus",
+	
+	"actionScopeAry": [  "bus16018",  "bus16020",  "bus16023",  "bus16024",  "bus16027",  "bus16028",  "bus16032",  "bus16035",  "bus16040",  "bus16061",  "bus16065",  "bus16091",  "bus16095",  "bus16098",  "bus16113",  "bus16116",  "bus16120",  "bus16123",  "bus16132",  "bus16134",  "bus16136",  "bus16137",  "bus16154",  "bus16156",  "bus16160",  "bus16175",  "bus16176",  "bus16181",  "bus16184",  "bus16185",  "bus16186",  "bus16187",  "bus16194",  "bus16207",  "bus16208",  "bus16218",  "bus16219",  "bus16224",  "bus16227",  "bus16231",  "bus16232",  "bus16233",  "bus16252",  "bus16262",  "bus16278",  "bus16282",  "bus16289",  "bus16290",  "bus16306",  "bus16313",  "bus16319",  "bus16331",  "bus16339",  "bus16345",  "bus16351",  "bus16353",  "bus16355",  "bus16358",  "bus16360" ],  
+
+	
+	"envStepTimeInSec": 0.1,
+	
+	"actionLevels":[0.0, -1.0],
+	
+    "unstableReward": -10000,
+    
+    "actionPenalty": 50.0,
+    
+    "invalidActionPenalty": 3.0,
+    
+    "preFaultActionPenalty":100,
+    
+    "observationWeight":10.0,
+    
+    "includeActionStatusInObservations": true,
+
+    "minVoltRecoveryLevel":0.90, 
+            
+    "maxVoltRecoveryTime":5.0,
+	
+    "faultBusCandidates": ["Bus6021", "Bus6033", "Bus6038", "Bus6118", "Bus6210", "Bus6254", "Bus6292", "Bus6342", "Bus6349"],
+	
+    "faultStartTimeCandidates": [1.0],
+	
+    "faultDurationCandidates": [0, 0.05, 0.1],
+	
+   
+    "actionSpaceType":"continuous",
+	
+	"actionBusesPValue":  [  78.61,  67.69,  14.80,  118.55,  20.49,  50.22,  26.21,  34.27,  140.19,  89.01,  87.69,  11.10,  68.86,  128.32,  14.50,  139.56,  21.06,  17.96,  25.45,  10.52,  18.95,  58.47,  75.91,  37.38,  73.68,  75.81,  80.08,  34.35,  24.53,  36.17,  17.89,  39.15,  33.16,  14.51,  25.82,  52.66,  59.65,  162.41,  12.95,  141.80,  60.72,  67.97,  40.07,  19.51,  29.74,  37.69,  148.72,  84.62,  17.72,  36.76,  29.33,  119.75,  30.66,  153.82,  17.74,  99.31,  165.03,  89.09,  34.18 ],  
+	
+    "actionValueRanges":  [  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0],  [-0.2, 0] ] 
+	
+}
