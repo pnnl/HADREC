@@ -1,5 +1,7 @@
 # HADREC
 
+python==3.6.9
+
 HADREC: High Performance Adaptive Deep-Reinforcement-Learning-based Real-time Grid Emergency Control 
 Copyright © 2022, Battelle Memorial Institute
 
