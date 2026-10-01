@@ -226,7 +226,7 @@ terminado==0.8.2
 testpath==0.4.2
 toolz==0.10.0
 torch==1.10.0
-tornado==6.0.3
+tornado==6.5.9
 tqdm==4.36.1
 traitlets==4.3.3
 typing-extensions==3.7.4.3
